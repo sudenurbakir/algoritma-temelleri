@@ -1,5 +1,3 @@
-**Döngü Nedir?**
-
 ## 1. Döngü Nedir?
 
 Döngü, bir algoritmada belirli bir işlemin veya işlem grubunun birden fazla kez tekrarlanmasını sağlayan yapıdır.
